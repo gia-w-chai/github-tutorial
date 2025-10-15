@@ -1,1 +1,5 @@
-print("Hej från conflict!")
+
+print("Hej från conflict")
+
+print("Hello world hej!")
+
